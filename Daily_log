@@ -1,0 +1,61 @@
+15/8
+# pgp for d stuck at d.163.1.1.fol
+cp run 1st_d _fail,deleted run, families 2-9 sent to patches_gen_pgp,1 would be handeled later
+cp of stuck a,b,c is kept run_abc* where they were stuck can be seen in backup,nothing extra is done.
+#
+17/9
+#a stck a.118.24
+a.2 -> a.2. a.20 a.21 a.22 a.23 
+ a.24 -> a.24 a.25 a.26
+ a.27 ->a.2[7-9]
+a.3 ->a.3 a.1[7-9]
+#
+19/8
+#
+a.12 done
+a.24 done
+a.2 done
+a.27 done
+#
+21/8
+#
+almost all a are done except a.15 ,bstuck at b.1.6.1.,finshed transferred to output
+
+b.50.1.1.fol showed that already all folder are present renamed as b.999.fol
+a may be stuck on a.118.8.7,rm ed it form output,
+22/8
+set on c.1. c.15678
+c.5 c.13 c.2 c.4 c.3 c.6
+31
+some problem with a.118.8.7
+[8]   Done                    ../../rep_prog/d2pgp.sh  (wd: ~/mrugsen/a_patches_gen_mat/b.6)
+(wd now: ~/mrugsen)
+[12]   Done                    ../../rep_prog/d2pgp.sh  (wd: ~/mrugsen/a_patches_gen_mat/c.8)
+(wd now: ~/mrugsen)
+[15]   Done                    ../../rep_prog/d2pgp.sh  (wd: ~/mrugsen/a_patches_gen_mat/c.1.)
+(wd now: ~/mrugsen)
+[16]   Done                    ../../rep_prog/d2pgp.sh  (wd: ~/mrugsen/a_patches_gen_mat/c.5)
+(wd now: ~/mrugsen)
+[17]   Done                    ../../rep_prog/d2pgp.sh  (wd: ~/mrugsen/a_patches_gen_mat/c.13and14)
+(wd now: ~/mrugsen)
+[19]   Done                    ../../rep_prog/d2pgp.sh  (wd: ~/mrugsen/a_patches_gen_mat/c.4)
+(wd now: ~/mrugsen)
+[23]+  Done                    ../../rep_prog/d2pgp.sh  (wd: ~/mrugsen/a_patches_gen_mat/c.11)
+
+
+started working on rand.c ex_rand 
+
+7/9
+
+c.10  c.12  c.2  c.3 done
+some problem with a.118.8.7
+a.15 b.1 b.5 c.6
+13/12
+working on checker to find the missing families
+ For A
+       Output contains all 824  except 84
+               /home/sandhya/mrugsen/1st_ab_fail/a-family
+For B 
+       Output contains all except 1 b.1.1.6 something
+		
+
